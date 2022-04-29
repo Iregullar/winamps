@@ -25,5 +25,4 @@ spotipy
 bs4
 html5lib
 numpy
-flask==2.1.1
-werkzeug==2.0.3
+
