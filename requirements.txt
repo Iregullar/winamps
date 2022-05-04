@@ -9,7 +9,7 @@ lyricsgenius
 py-tgcalls
 wget
 python-dotenv
-pyyaml==5.3.1
+pyyaml==5.4
 youtube-search-python
 youtube-search
 speedtest-cli
